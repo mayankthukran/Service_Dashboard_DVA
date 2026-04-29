@@ -49,16 +49,16 @@ The data is filtered to **November** in the view shown, with year-to-date contex
 | **High Priority Tickets** | 101 |
 | **Medium Priority Tickets** | 196 |
 | **Low Priority Tickets** | 293 |
-| **Top Issue Category** | General IT Support — 481 cases |
-| **Top Agent** | Idaline Mockler — 203 closed cases |
-| **Most Active User** | Derwin Taffee |
+| **Top Issue Category** | General IT Support — 481 cases  |
+| **Top Agent** | Idaline Mockler — 203 closed cases  |
+| **Most Active User** | Derwin Taffee  |
 
 ---
 
 ## 💡 Key Insights
 
 ### 1. ✅ Near-Perfect Ticket Closure Rate
-Of 3,316 total tickets, **3,281 were closed** — a closure rate of **98.9%**. Only **33 tickets remain open**, indicating a highly responsive and efficient service desk operation.
+Of 3,316 total tickets, **3,281 were closed** — a closure rate of **98.9%**. Only **33 tickets remain open**, indicating a highly responsive and efficient service desk operation .
 
 ### 2. ⚠️ Average Resolution Time is High at 24 Days
 While the closure rate is excellent, the **24-day average resolution time** is a concern. The largest resolution bucket is **>20 days (208 tickets)** — bigger than any other single range — suggesting a long tail of complex or stalled tickets dragging the average up significantly.
@@ -75,7 +75,7 @@ The ticket mix skews heavily toward lower urgency:
 Over 80% of tickets are Medium or Low priority — a healthy distribution. However, the high volume of Low-priority tickets may indicate preventable, recurring issues addressable through self-service resources.
 
 ### 5. 🧑‍💻 General IT Support Overwhelms Other Categories
-**General IT Support accounts for 481 cases** — far exceeding all other categories (Software: 51, Access: 41, Hardware: 17). This catch-all category likely masks more granular issue types, and improving taxonomy could drive faster routing and resolution.
+**General IT Support accounts for 481 cases** — far exceeding all other categories (Software: 51, Access: 41, Hardware: 17). This catch-all category likely masks more granular issue types, and improving taxonomy could drive faster routing and resolution .
 
 ### 6. 🏆 Top Agent Handles 2.5× More Cases Than the Second
 **Idaline Mockler closed 203 cases** in the Second Line Helpdesk — more than 2.5× the next agent (Roby Zapata, 80 cases). This concentration of workload is a risk: heavy dependency on one agent creates a bottleneck and a single point of failure.
@@ -113,7 +113,7 @@ The resolution time distribution reveals a **bimodal pattern** — fast resoluti
 
 ---
 
-## ⏱️ Resolution Time Analysis
+## ⏱️ Resolution Time  Analysis
 
 | Resolution Time Band | Tickets | Notes |
 |---|---|---|
@@ -136,7 +136,7 @@ The resolution time distribution reveals a **bimodal pattern** — fast resoluti
 | New Access Request | 41 | 7.0% |
 | Hardware Request | 17 | 2.9% |
 
-> General IT Support is **7.9× larger** than the next category. This catch-all label likely hides actionable sub-issues. Enforcing sub-category selection at ticket creation could improve routing speed and trend visibility significantly.
+> General IT Support is **7.9× larger** than the next category. This catch-all label likely hides actionable sub-issues. Enforcing sub-category selection at ticket creation could improve routing speed and trend visibility significantly .
 
 ---
 
